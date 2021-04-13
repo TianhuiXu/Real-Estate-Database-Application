@@ -1,4 +1,4 @@
-###Database Application
+### Database Application
 
 In this project, I designed and created database according to the normalization standard using SQLAlchemy.
 Fictious data are inserted to mimic the setting. Queries are also provided to produce a monthly report according to the requirement.
